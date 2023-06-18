@@ -1,0 +1,5 @@
+2023-05-19T13:20:29.3731492+04:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2023-05-19T13:20:29.4045774+04:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2023-05-19T13:20:29.4135998+04:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-05-19T13:20:29.4235587+04:00  [INF] Hosting environment: "Development" (c3307c92)
+2023-05-19T13:20:29.4313598+04:00  [INF] Content root path: "C:\Users\Admino\source\repos\localRepoForMatrixHomework\PostOpinion" (b5d60022)
